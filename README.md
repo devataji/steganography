@@ -1,6 +1,6 @@
 🔒 Introducing Stenganograpny: Hiding Messages in Plain Sight!🔒  
 
-We're excited to showcase our latest project—**Stenganograpny**, a web-based steganography tool that allows users to conceal secret messages within images! 🖼️🔏
+We're excited to showcase our latest project—**Stenganography**, a web-based steganography tool that allows users to conceal secret messages within images! 🖼️🔏
 
 ✨ What it does:
 
